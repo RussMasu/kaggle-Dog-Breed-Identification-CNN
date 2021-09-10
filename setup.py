@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-	name='pretrain',
+	name='train',
 	author='Russ Masuda',
 	author_email='masuda3@hawaii.edu',
-	packages=['pretrain'],
+	packages=['train'],
 	install_requires=[
 		'opencv-python',
 		'numpy',
